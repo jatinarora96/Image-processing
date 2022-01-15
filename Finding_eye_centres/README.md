@@ -12,6 +12,7 @@ Display the result.
 
 | Input Image | Image after detecting Eye centre |
 |------------|-------------|
-| ![Original image](https://user-images.githubusercontent.com/59498809/149624741-8e5b506a-eac2-4d58-8dd2-a84df2467503.png) | ![Image after eye-centre detection](https://user-images.githubusercontent.com/59498809/149624749-88e354ed-7e0e-4716-9780-48c132f206e4.png) |
+| ![Face1](https://user-images.githubusercontent.com/59498809/149630503-aa30ea9d-3946-410d-9799-9d5fca1a3e97.jpg) | ![Image_2](https://user-images.githubusercontent.com/59498809/149630520-a2e36383-5c27-4c13-89d3-edf3d533439f.jpg) |
+
 
 
